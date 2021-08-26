@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBoardingApp</string>
+    <string name="HEADING">HEADING</string>
+    <string name="slide_description">slide_description</string>
+    <string name="todo">TODO</string>
+    <string name="previous_Button">Button</string>
+    <string name="next_Button">NEXT</string>
+</resources>
